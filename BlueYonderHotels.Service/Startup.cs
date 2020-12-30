@@ -46,7 +46,6 @@ namespace BlueYonderHotels.Service
                 app.UseHsts();
             }
 
-            app.UseExecutionTimeMiddleware();
             app.UseHttpsRedirection();
             app.UseMvc();
         }
