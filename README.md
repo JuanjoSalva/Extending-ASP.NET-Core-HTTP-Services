@@ -42,29 +42,29 @@ Por consola podemos mostrar los resultados:
 
 **Aquí mostramos las reservas en la web.**
 
-![GetAllReservas](E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\img\GetAllReservas.PNG)
+![GetAllReservas](https://github.com/JuanjoSalva/Extending-ASP.NET-Core-HTTP-Services/blob/master/img/GetAllReservas.PNG)
 
 
 
 **Aquí las mostramos por consola**
 
-![getreservation](E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\img\getreservation.PNG)
+![getreservation](https://github.com/JuanjoSalva/Extending-ASP.NET-Core-HTTP-Services/blob/master/img/getreservation.PNG)
 
 
 
 **Otra forma**
 
-![getreservationContent](E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\img\getreservationContent.PNG)
+![getreservationContent](https://github.com/JuanjoSalva/Extending-ASP.NET-Core-HTTP-Services/blob/master/img/getreservationContent.PNG)
 
 
 
 **Invokar una** 
 
-![invoke](E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\img\invoke.PNG)
+![invoke](https://github.com/JuanjoSalva/Extending-ASP.NET-Core-HTTP-Services/blob/master/img/invoke.PNG)
 
 **Borrar** 
 
-![borrada](E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\img\borrada.PNG)
+![borrada](https://github.com/JuanjoSalva/Extending-ASP.NET-Core-HTTP-Services/blob/master/img/borrada.PNG)
 
 
 
@@ -74,4 +74,4 @@ Por consola podemos mostrar los resultados:
 
 Implemente el middleware ASP.NET Core que devuelva el tiempo de ejecución del servicio.
 
-![3](E:\JUANJO\CURSO2020\MODULO4_AZURE\20487D\AllFiles\Mod04\LabFiles\Lab1\Starter\img\3.PNG)
+![3](https://github.com/JuanjoSalva/Extending-ASP.NET-Core-HTTP-Services/blob/master/img/3.PNG)
