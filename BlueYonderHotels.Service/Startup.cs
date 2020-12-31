@@ -15,6 +15,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.Extensions.Primitives;
 using BlueYonder.Hotels.DAL.Repository;
+using BlueYonderHotels.Service.Middleware;
 
 namespace BlueYonderHotels.Service
 {
